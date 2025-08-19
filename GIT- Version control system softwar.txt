@@ -1,0 +1,44 @@
+GIT- Version control system software (VCS)
+GIT is a distributed version control system.
+
+
+
+APPLICTION PROVIDERS
+
+GITHUB.com
+Bitbucket.com
+GitLab.in
+
+
+CENTERILIZED VCS
+SINGLE POINT FAILUER
+
+DISTRIBUTED VCS
+
+WHAT IS GIT AND GIT HUB?
+
+WHAT IS COULD ?
+
+DISTIBUTION SERVICES
+DISTIBUTED NETWORKING
+
+GIT ( DISTIBUTED VCS ) MECHANISM
+
+APPLICTION PROVIDERS
+GIT is free and open source distributed version control system.
+GITHUB.com
+Bitbucket.com
+GitLab.in
+
+
+15 GIT COMMANDS .....
+GIT INIT
+GIT ADD
+GIT COMMIT
+GIT PUSH
+GIT PULL
+GIT CLONE
+GIT CAT
+GIT REBASE
+GIT MERGE
+GIT REMOTE ADD
